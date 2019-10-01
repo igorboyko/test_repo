@@ -1,1 +1,3 @@
-pritt('Hello,Igor !')
+print('Hello,Igor !')
+print('i find work!!!')
+
